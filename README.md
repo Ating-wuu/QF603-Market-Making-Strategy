@@ -1,11 +1,16 @@
-# QF603-Market-Making-Strategy (Individual Contribution)
+# Volatility Forecasting + A–S Market Making (Individual Contribution Part)
 
-This repository contains only the modules I independently implemented as part of a larger group project.  
-The full project is not public due to academic policy.  
-Therefore, this subset is not intended to run standalone.
+This repository includes the modules I independently implemented for a group project on volatility forecasting and Avellaneda–Stoikov market making. 
 
-Contents:
-- pca_factor.py – PCA factor construction
-- portfolio_opt.py – eigen-portfolio optimization
-- backtest_demo.ipynb – demonstration of usage
+The full project remains private due to academic policy; therefore, this subset is **not intended to run standalone**, but it showcases my contributions to:
+
+- High-frequency data merging & cleaning  
+- Volatility forecasting modules (EWMA, Realized Vol)  
+- A–S market-making simulation engine  
+- Performance metrics & reporting utilities  
+
+Files included (my work only):  
+- `0.data_combine.py` – multi-day OKX orderbook merger  
+- `benchmark_structure.py` – A–S simulator, risk logic, analytics  
+- `1.benchmark_strategy_performance.py` – multi-model backtest runner  
 
