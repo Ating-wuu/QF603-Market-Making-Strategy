@@ -1,6 +1,6 @@
 # Volatility Forecasting + A–S Market Making (Individual Contribution Part)
 
-This repository includes the modules I independently implemented for a group project on volatility forecasting and Avellaneda–Stoikov market making. 
+This repository only includes the modules that I independently implemented for a group project on volatility forecasting and Avellaneda–Stoikov market making. 
 
 The full project remains private due to academic policy; therefore, this subset is **not intended to run standalone**, but it showcases my contributions to:
 
